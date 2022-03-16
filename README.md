@@ -11,6 +11,8 @@ About me
 - 8 years as a truck driver (international and Polish routes).
 - Student of IT with a specialization in "Programming Technologies" for the 3rd year A.H.E Lodz.
 - After work, I practice in home my (Python / PHP / HTML-CSS) programming skills and sometimes I create computer graphics projects for youtube and fb.
-anguages/tools:
+
+
+languages/tools:
 
 babel bootstrap css3 git html5 javascript react redux sass python
