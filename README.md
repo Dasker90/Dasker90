@@ -14,5 +14,4 @@ About me
 
 
 languages/tools:
-
-babel bootstrap css3 git html5 javascript react redux sass python
+#Python #HTML5 #CSS3 #JAVA
